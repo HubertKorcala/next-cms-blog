@@ -12,7 +12,6 @@ import { VT323 } from "next/font/google";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import React from "react";
 
 const dateFont = VT323({ weight: "400", subsets: ["latin"] });
 
